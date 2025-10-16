@@ -1,0 +1,42 @@
+{
+  "roles": {
+    "support": "", // ID do cargo da equipe de suporte
+    "member": "", // ID do cargo padrão de membro
+    "guild": "" // ID do cargo administrativo principal ou da staff
+  },
+
+  "footer": "", // Texto que aparece no rodapé dos embeds
+
+  "tickets_images": {
+    "embedMain": "", // URL da imagem principal usada no painel de tickets
+    "embedVerify": "", // Imagem para o embed de verificação
+    "embedDesign": "", // Imagem para tickets de design
+    "embedDev": "", // Imagem para tickets de desenvolvimento
+    "embedPartners": "", // Imagem para tickets de parcerias
+    "embedHelp": "" // Imagem para tickets de ajuda
+  },
+
+  "ticketsCategories": {
+    "design_category": "", // ID da categoria para tickets de design
+    "dev_category": "", // ID da categoria para tickets de desenvolvimento
+    "partners_category": "", // ID da categoria para tickets de parcerias
+    "help_category": "" // ID da categoria para tickets de suporte/ajuda
+  },
+
+  "logs": {
+    "design": "", // Canal onde serão logados os tickets de design
+    "desenvolvimentos": "", // Canal onde serão logados os tickets de desenvolvimento
+    "partners": "", // Canal onde serão logadas as solicitações de parceria
+    "help": "", // Canal onde serão logados os tickets de suporte
+    "feedback": "" // Canal onde o bot enviará mensagens de feedback geral
+  },
+
+  "emojis": {
+    "alerts": {
+      "info": "", // Emoji para mensagens de informação
+      "error": "", // Emoji para mensagens de erro
+      "warn": "", // Emoji para alertas/avisos
+      "success": "" // Emoji para mensagens de sucesso
+    }
+  }
+}

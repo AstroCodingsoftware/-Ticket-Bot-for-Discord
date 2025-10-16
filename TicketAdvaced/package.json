@@ -1,0 +1,21 @@
+{
+  "name": "apex",
+  "version": "1.0.0",
+  "description": "Apex automation",
+  "main": "index.js",
+  "type": "module",
+  "author": "by astro",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "console-log-level": "^1.4.1",
+    "crc": "^4.3.2",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.4.7",
+    "jsonc-parser": "^3.3.1",
+    "node-fetch": "^3.3.2",
+    "pix": "^0.0.0",
+    "qrcode": "^1.5.4",
+    "qrcode-pix": "^5.0.0"
+  }
+}
